@@ -1,0 +1,5 @@
+c:\users\jumbo\documents\visual studio 2010\Projects\ProyectoM\ProyectoM\bin\ProyectoM.dll
+c:\users\jumbo\documents\visual studio 2010\Projects\ProyectoM\ProyectoM\bin\ProyectoM.pdb
+c:\users\jumbo\documents\visual studio 2010\Projects\ProyectoM\ProyectoM\obj\Debug\ProyectoM.dll
+c:\users\jumbo\documents\visual studio 2010\Projects\ProyectoM\ProyectoM\obj\Debug\ProyectoM.pdb
+C:\Users\jumbo\documents\visual studio 2010\Projects\ProyectoM\ProyectoM\obj\Debug\ProyectoM.csprojResolveAssemblyReference.cache
